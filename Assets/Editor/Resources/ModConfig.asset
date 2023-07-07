@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: captainWheeler
+  title: Captain Wheeler
+  author: cameron
+  description: "Captain Wheeler 1.0\r\n\"Look at me! I am the Captain now.\"\r\n\r\nSelect
+    your correct captain, ship, and time to sail the seven seas using properties off
+    a wheel.\r\nReport bugs to cameronos on Discord.\r\n\r\nModule ID: captainWheeler\r\n\r\nCreated
+    by: cameronos\r\nDevelopment: cameronos, valdisimas\r\nManual: cameronos, Volleyball
+    man, valdisimas"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 5bb8c059a24376a4f89a6012320a65db, type: 3}
